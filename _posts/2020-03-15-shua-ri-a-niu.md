@@ -2,8 +2,6 @@
 title:  "刷日阿牛来也！"
 subtitle: "彝族少女、棒球少女、画画少女"
 author: "跳跳糖公益"
-avatar: "assets/images/authors/logo.jpg"
-image: "assets/images/1.png"
 ---
 
 刷日阿牛是一个特别热情开朗的小姑娘，一到基地就阿牛就拉着我的手带我去座位上画画，她告诉我她最喜欢的事就是画画，以后想当一个画家。
