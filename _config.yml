@@ -8,3 +8,5 @@ subTitle: "刷日阿牛"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
+
+theme: jekyll-theme-merlot
