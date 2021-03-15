@@ -2,9 +2,9 @@
 title:  "刷日阿牛来也！"
 subtitle: "彝族少女、棒球少女、画画少女"
 author: "跳跳糖公益"
-image: "assets/images/2.jpg"
-image: "assets/images/1.jpg"
-image: "assets/images/3.jpg"
+image: "assets/images/2.png"
+image: "assets/images/1.png"
+image: "assets/images/3.png"
 ---
 
 ## 【刷日阿牛】彝族少女来也  
