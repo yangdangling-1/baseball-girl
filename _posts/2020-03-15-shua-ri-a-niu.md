@@ -10,20 +10,13 @@ author: "跳跳糖公益"
 
 
 ## 【刷日阿牛】彝族少女来也  
----
 
 image: "assets/images/2.png"
 
----
 ## 【刷日阿牛】棒球少女来也  
----
 
 image: "assets/images/1.png"
 
----
 ## 【刷日阿牛】画画少女来也  
----
 
 image: "assets/images/3.png"
-
----
